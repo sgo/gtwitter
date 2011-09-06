@@ -7,7 +7,9 @@ class UrlMappings {
 			}
 		}
 
-		"/"(view:"/index")
+        "/$id"(controller:'bird', action:'show')
+
+		"/"(controller:'home', action:'index')
 		"500"(view:'/error')
 	}
 }

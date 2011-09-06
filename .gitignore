@@ -10,7 +10,9 @@ web-app/WEB-INF/sitemesh.xml
 /docs
 *.zip
 *.zip*
-*.i*
+*.ipr
+*.iml
+*.iws
 *.sha1
 out
 test/reports
