@@ -1,12 +1,12 @@
 gTwitter
 --------
 
-Some time ago a colleague remarked to me how its common for Ruby enthusiasts to use TDD dring presentations while the same thing does not happen nearly as much in the Java world. This is a shame because these people are in an important position to help shape the level of professionalism we can expect from the Java community and yet they do not give the right example.
+Some time ago a colleague remarked to me how its common for Ruby enthusiasts to use TDD during presentations while the same thing does not happen nearly as much in the Java world. This is a shame because these people are in an important position to help shape the level of professionalism we can expect from the Java community and yet they do not give the right example.
 
 In an attempt to remedy this I decided to try my hand at technologies while using TDD.
 To start with I have chosen Grails and Twitter because haven't we all seen so many technologies that let you build a basic Twitter clone really fast?
 
-This exercise took a little under a regular 8 hour working day and touches upon almost the entire stack of the Grails framework. There is GUI work, controller work, business- and data layer work. So it's not like a TDD approach will leave you stranded in boiler plater purgatory for long periods or anything.
+This exercise took a little under a regular 8 hour working day and touches upon almost the entire stack of the Grails framework. There is GUI work, controller work, business- and data layer work. So it's not like a TDD approach will leave you stranded in boiler plate purgatory for long periods or anything.
 
 Next up I'm thinking of making some screencasts to show the more interesting parts as the application takes shape.
 
