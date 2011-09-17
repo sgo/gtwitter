@@ -1,5 +1,5 @@
 gTwitter
---------
+========
 
 Some time ago a colleague remarked to me how its common for Ruby enthusiasts to use TDD during presentations while the same thing does not happen nearly as much in the Java world. This is a shame because these people are in an important position to help shape the level of professionalism we can expect from the Java community and yet they do not give the right example.
 
@@ -11,6 +11,14 @@ This exercise took a little under a regular 8 hour working day and touches upon 
 Next up I'm thinking of making some screencasts to show the more interesting parts as the application takes shape.
 
 If you would like to provide some feedback or have questions feel free to message me here on github or on twitter <a href="http://twitter.com/sebastiangozin">@sebastiangozin</a>
+
+Usage
+-----
+
+* Download and install <a href="http://grails.org">grails-1.3.x</a>
+* clone this repository
+* $ grails test-app -coverage
+* $ grails run-app
 
 Features
 --------
